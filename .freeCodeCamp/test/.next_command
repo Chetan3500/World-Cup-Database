@@ -309,3 +309,9 @@ clear
 ./queries.sh
 ./queries.sh
 git add .
+git commit -m 'queries done'
+git push
+git push new main
+clear
+./queries.sh
+./queries.sh
